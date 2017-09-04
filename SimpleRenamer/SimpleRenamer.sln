@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Renamer", "Renamer\Renamer.csproj", "{FAAE0EE6-F81B-45D3-B220-43095E0A9F57}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Renamer.Tests", "Renamer.Tests\Renamer.Tests.csproj", "{8E1F1958-47D9-4669-BE4C-B94442AC80F9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{FAAE0EE6-F81B-45D3-B220-43095E0A9F57}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FAAE0EE6-F81B-45D3-B220-43095E0A9F57}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FAAE0EE6-F81B-45D3-B220-43095E0A9F57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E1F1958-47D9-4669-BE4C-B94442AC80F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E1F1958-47D9-4669-BE4C-B94442AC80F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E1F1958-47D9-4669-BE4C-B94442AC80F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E1F1958-47D9-4669-BE4C-B94442AC80F9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
